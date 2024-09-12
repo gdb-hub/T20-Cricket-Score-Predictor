@@ -488,3 +488,4 @@ dependencies:
   - pip:
       - importlib-resources==6.4.0
 prefix: C:\Users\HP\anaconda3
+  - xgboost==2.1.1
